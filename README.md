@@ -1,2 +1,2 @@
-Encriptador de texto
+Encriptador de texto </br>
 Federico Perez Almada
